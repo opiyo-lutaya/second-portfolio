@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0px;
+  padding: 60px 0px;
+  text-align: center;
+  font-size: 40px;
+  background: cornflowerblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#karuma-el {
+  /* outline: 1px solid red; */
+  padding: 60rem 33rem;
+  background-image: url("atim.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  margin: 0px;
+  text-align: center;
+  padding-bottom: 70px;
+  background: darkolivegreen;
+}
+
+h3 {
+  font-size: 25px;
+  padding-top: 20px;
+  margin: 0px;
+}
+
+.child {
+  margin: 20px;
+  padding: 10px 30px;
+}
+
+#sub-el {
+  padding: 5px 20px;
+}
